@@ -33,17 +33,6 @@
 	</profiles>
 
 	<repositories>
-		<repository>
-			<id>yrd</id>
-			<url>http://10.141.4.31:8080/nexus/content/groups/public/</url>
-			<layout>default</layout>
-			<releases>
-				<enabled>true</enabled>
-			</releases>
-			<snapshots>
-				<enabled>true</enabled>
-			</snapshots>
-		</repository>
 	</repositories>
 
 	<build>
